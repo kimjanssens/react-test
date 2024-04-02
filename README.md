@@ -38,3 +38,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+# Opdracht
+
+- Vul de ontbrekende data in bij de Header component. Hou rekening met de typescript types.
+- Render de lijst met links in de Footer component.
+- Maak een Statistics component en zorg dat deze tussen de Header en de Footer komt te staan.
+- Maak een Pie chart met https://airbnb.io/visx zoals in example-chart.svg. De data hiervoor kan je inladen via public/chart.json

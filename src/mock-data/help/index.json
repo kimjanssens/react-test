@@ -1,0 +1,32 @@
+{
+    "components": [
+        {
+            "id": "01",
+            "type": "Header",
+            "data": {
+                "title": "Eco Nrg - Help",
+                "description": "lorem ipsum dolor sit amet"
+            }
+        }, 
+        {
+            "id": "02",
+            "type": "Footer",
+            "data": {
+                "links": [
+                    {
+                        "label": "Dashboard",
+                        "href": "/"
+                    },
+                    {
+                        "label": "Contact",
+                        "href": "/contact"
+                    },
+                    {
+                        "label": "Help",
+                        "href": "/help"
+                    }
+                ]
+            }
+        }
+    ]
+}
