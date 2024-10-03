@@ -1,6 +1,10 @@
-export default function Header(props) {
-    return <header>
-        <h1>Header here</h1>
-        <p>description here</p>
-    </header>
+import { HeaderData } from "@/types/page-components";
+
+export default function Header(props: { data: HeaderData }) {
+	return (
+		<header>
+			<h1>{props.data.title}</h1>
+			<p>{props.data.description}</p>
+		</header>
+	);
 }
