@@ -1,27 +1,26 @@
 [
-    {
-        "type": "appel",
-        "value": 1500
-    },
-    {
-        "type": "peer",
-        "value": 1900
-    },
-    {
-        "type": "vijg",
-        "value": 1500
-    },
-    {
-        "type": "banaan",
-        "value": 4000
-    },
-    {
-        "type": "bosbes",
-        "value": 900
-    },
-    ,
-    {
-        "type": "druif",
-        "value": 700
-    }
+	{
+		"type": "appel",
+		"value": 1500
+	},
+	{
+		"type": "peer",
+		"value": 1900
+	},
+	{
+		"type": "vijg",
+		"value": 1500
+	},
+	{
+		"type": "banaan",
+		"value": 4000
+	},
+	{
+		"type": "bosbes",
+		"value": 900
+	},
+	{
+		"type": "druif",
+		"value": 700
+	}
 ]

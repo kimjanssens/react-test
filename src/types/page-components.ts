@@ -18,4 +18,9 @@ export type FooterDataLink = {
 	href: string;
 };
 
+export type StatisticsItem = {
+	label: string;
+	value: number;
+};
+
 export type PageLayoutItems = PageComponent[];
