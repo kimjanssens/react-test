@@ -19,7 +19,7 @@ export type FooterDataLink = {
 };
 
 export type StatisticsItem = {
-	label: string;
+	type: string;
 	value: number;
 };
 
